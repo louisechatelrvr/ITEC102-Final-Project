@@ -1,38 +1,44 @@
-# numsyspro1
-PROJECT TITLE:
-NumSysPro: Multi-Base Number System Calculator
+# NumSysPro
 
-DESCRIPTION:
-NumSysPro is a C# console program that lets the user perform number system calculations,
-showing the calculation process, with clean user interface.
+## PROJECT TITLE
+**NumSysPro: Multi-Base Number System Calculator**
 
-OBJECTIVES:
-The program aims to make the Number System topic more intuitive while learning how each calculation is performed.
-It specifically targets Number System newbies and to become their guide to the topic.
+## DESCRIPTION
+NumSysPro is a C# console application that allows users to perform number system conversions while displaying the step-by-step calculation process. It provides a simple and organized user interface to make number system conversions easier to understand.
 
-MEMBERS:
-Khalil Louisechatel Rivera
-Semperkin R. Escala
-Lizeth Ann E. Ebeya
+## OBJECTIVES
+The program aims to make the topic of Number Systems more intuitive and easier to understand by showing how each conversion is performed.
 
-LANGUAGE USED:
-We used C# program language for its simple but broad features.
+It is designed for beginners who are learning about Number Systems and serves as a guide to understanding the conversion process.
 
-SYSTEM FEATURES:
-- Organized UI
-- Simple Instructions
-- Easy inputs
+## GROUP MEMBERS
+- Khalil Louisechatel Rivera
+- Semperkin R. Escala
+- Lizeth Ann E. Ebeya
 
-NumSysPro lets the user
-- Choose a base to convert FROM and convert TO
-- Enter the number according to the base chosen
-- Displays the calculation process of each base conversion
-- Choose what operation the user wishes to do next
+## PROGRAMMING LANGUAGE
+C# (C-Sharp)
 
-HOW TO RUN NumSysPro:
-Step 1: Paste the code into a compiler 
-Step 2: Choose a base to convert FROM 
-Step 3: Choose a base to convert TO 
-Step 4: Enter a valid number 
-Step 5: Analyze the calculation process 
-Step 6: Choose to retry, choose new bases, or quit 
+## SYSTEM FEATURES
+- Organized user interface
+- Simple instructions
+- Easy input process
+- Supports Binary, Octal, Decimal, and Hexadecimal number systems
+- Displays step-by-step calculation processes
+
+## WHAT NUMSYSPRO CAN DO
+NumSysPro allows users to:
+- Choose a base to convert FROM and a base to convert TO.
+- Enter a number according to the selected base.
+- View the calculation process for each base conversion.
+- Choose what operation to perform next.
+- Retry a conversion, select new bases, or quit the program.
+
+## HOW TO RUN NumSysPro
+1. Open the C# source code (`numsys.cs`) in a C# compiler or development environment.
+2. Compile and run the program.
+3. Choose a base to convert FROM.
+4. Choose a base to convert TO.
+5. Enter a valid number according to the selected base.
+6. Follow the displayed calculation process.
+7. Choose whether to retry, select new bases, or quit the program.
