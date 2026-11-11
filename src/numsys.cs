@@ -26,11 +26,11 @@ class numsys
             {
                 Console.WriteLine("============================================================");
                 Console.WriteLine("|STEP 1: What base to CONVERT FROM?                        |");
-                Console.WriteLine("|Please choose a number system:                                   |");
+                Console.WriteLine("|Please choose a number system:                            |");
                 Console.WriteLine("============================================================");
                 Console.WriteLine("+------------+  +------------+  +------------+  +------------+");
                 Console.WriteLine("|    [2]     |  |    [8]     |  |    [10]    |  |    [16]    |");
-                Console.WriteLine("|   Binary   |  |   Octal    |  |  Decimal   |  |Hexadecimal |");
+                Console.WriteLine("|   Binary   |  |   Octal    |  |  Decimal   |  | Hexadecimal|");
                 Console.WriteLine("+------------+  +------------+  +------------+  +------------+");
                 Console.Write("Type 2, 8, 10, or 16 and press Enter: ");
                 inputbase = Console.ReadLine();
@@ -61,7 +61,7 @@ class numsys
             {
                 Console.WriteLine("============================================================");
                 Console.WriteLine("|STEP 2: What base to CONVERT TO?                          |");
-                Console.WriteLine("|Please choose a number system:                                   |");
+                Console.WriteLine("|Please choose a number system:                            |");
                 Console.WriteLine("============================================================");
                 Console.WriteLine("+------------+  +------------+  +------------+  +------------+");
                 Console.WriteLine("|    [2]     |  |    [8]     |  |    [10]    |  |    [16]    |");
