@@ -30,9 +30,9 @@ NumSysPro lets the user
 - Choose what operation the user wishes to do next
 
 HOW TO RUN NumSysPro:
-Step 1: Paste the code into a compiler
-Step 2: Choose a base to convert FROM
-Step 3: Choose a base to convert TO
-Step 4: Enter a valid number
-Step 5: Analyze the calculation process
-Step 6: Choose to retry, choose new bases, or quit
+Step 1: Paste the code into a compiler 
+Step 2: Choose a base to convert FROM 
+Step 3: Choose a base to convert TO 
+Step 4: Enter a valid number 
+Step 5: Analyze the calculation process 
+Step 6: Choose to retry, choose new bases, or quit 
